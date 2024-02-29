@@ -8,7 +8,5 @@
 ②：长按复制以下链接到手机自带浏览器打开
 [ https://wwag.lanzoum.com/s/doumei ]( https://wwag.lanzoum.com/s/doumei )
 
-③永久地址发布页
-[ https://github.com/pldqq1/- ]( https://github.com/pldqq1/- )
-
 # 网址随时会被和谐,请务必收藏发布页！
+[ https://github.com/doumeiapp/gg ]( https://github.com/doumeiapp/gg )
