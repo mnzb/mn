@@ -12,3 +12,5 @@
 [ https://bitbucket.org/fabuye/pphanman/ ]( https://bitbucket.org/fabuye/pphanman/ )
 
 # 网址随时会被和谐,请务必收藏发布页！
+
+![微信图片_20231108102037](https://github.com/pldqq1/-/assets/161739065/d25c5812-044a-45c0-9a46-f36f4eef6394)
