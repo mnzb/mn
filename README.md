@@ -6,8 +6,7 @@
 注意：中间是个点. 不是逗号或者其他符号哦
 
 ②：长按复制以下链接到手机自带浏览器打开
-[ https://wwag.lanzoum.com/s/doumei ]( https://wwag.lanzoum.com/s/doumei )
-https://pan.quark.cn/s/92bf95d95dba
+[ https://wwag.lanzoum.com/s/doumei ]( https://pan.quark.cn/s/92bf95d95dba)
 
 # 网址随时会被和谐,请务必收藏发布页！
 [ https://github.com/doumeiapp/gg ]( https://github.com/doumeiapp/gg )
